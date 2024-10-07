@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PinDimension\\PinDimension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|d:\\pindimension\\pindimension\\traffovision\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\dhcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\dhcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\controllers\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\controllers\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\models\\pininf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\models\\pininf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\models\\icmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\models\\icmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|D:\\PinDimension\\PinDimension\\traffovision\\constants\\appconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE386AA-07D3-43FC-8DD6-BCCB45C56D85}|TraffoVision\\TraffoVision.csproj|solutionrelative:traffovision\\constants\\appconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Settings.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Settings.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Settings.cs",
+              "RelativeToolTip": "TraffoVision\\Settings.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAtwCwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:33:33.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Settings.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Settings.cs",
+              "ToolTip": "D:\\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\MultiDisplay\\TraffoVision\\Settings.cs [Design]",
+              "RelativeToolTip": "..\\..\\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\MultiDisplay\\TraffoVision\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:04:48.491Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Controllers\\FormController.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Controllers\\FormController.cs",
+              "RelativeToolTip": "TraffoVision\\Controllers\\FormController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:59:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Process.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Controllers\\Process.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Controllers\\Process.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Controllers\\Process.cs",
+              "RelativeToolTip": "TraffoVision\\Controllers\\Process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:57:25.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppConstant.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Constants\\AppConstant.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Constants\\AppConstant.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Constants\\AppConstant.cs",
+              "RelativeToolTip": "TraffoVision\\Constants\\AppConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:58:58.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICModel.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Models\\ICModel.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Models\\ICModel.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Models\\ICModel.cs",
+              "RelativeToolTip": "TraffoVision\\Models\\ICModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA6wDsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:55:45.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PinInf.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Models\\PinInf.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Models\\PinInf.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Models\\PinInf.cs",
+              "RelativeToolTip": "TraffoVision\\Models\\PinInf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:55:13.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Settings.Designer.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Settings.Designer.cs",
+              "RelativeToolTip": "TraffoVision\\Settings.Designer.cs",
+              "ViewState": "AQIAAKgBAAAAAAAAAAAhwMQBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:42:50.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Home.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Home.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Home.cs",
+              "RelativeToolTip": "TraffoVision\\Home.cs",
+              "ViewState": "AQIAAFgCAAAAAAAAAADgv20CAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:53:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Home.Designer.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Home.Designer.cs",
+              "RelativeToolTip": "TraffoVision\\Home.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcCAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:29:21.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Home.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Home.cs",
+              "ToolTip": "D:\\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\MultiDisplay\\TraffoVision\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\\MultiDisplay\\TraffoVision\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:53:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DHCamera.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\DHCamera.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\DHCamera.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\DHCamera.cs",
+              "RelativeToolTip": "TraffoVision\\DHCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:54:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PinDimension\\PinDimension\\TraffoVision\\Program.cs",
+              "RelativeDocumentMoniker": "TraffoVision\\Program.cs",
+              "ToolTip": "D:\\PinDimension\\PinDimension\\TraffoVision\\Program.cs",
+              "RelativeToolTip": "TraffoVision\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:38:19.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

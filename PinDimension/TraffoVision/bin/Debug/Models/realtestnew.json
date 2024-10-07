@@ -1,0 +1,104 @@
+{
+  "Name": "realtestnew",
+  "Code": 1,
+  "Image1ICPins": [
+    {
+      "Name": "PIN1_1",
+      "LocationX": 242,
+      "LocationY": 163,
+      "Width": 47,
+      "Height": 27,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_2",
+      "LocationX": 358,
+      "LocationY": 161,
+      "Width": 43,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_3",
+      "LocationX": 427,
+      "LocationY": 162,
+      "Width": 36,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_4",
+      "LocationX": 546,
+      "LocationY": 162,
+      "Width": 44,
+      "Height": 26,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image2ICPins": [
+    {
+      "Name": "PIN2_1",
+      "LocationX": 161,
+      "LocationY": 156,
+      "Width": 35,
+      "Height": 26,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_2",
+      "LocationX": 225,
+      "LocationY": 158,
+      "Width": 40,
+      "Height": 25,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_3",
+      "LocationX": 290,
+      "LocationY": 157,
+      "Width": 36,
+      "Height": 23,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_4",
+      "LocationX": 356,
+      "LocationY": 156,
+      "Width": 30,
+      "Height": 25,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_5",
+      "LocationX": 415,
+      "LocationY": 154,
+      "Width": 36,
+      "Height": 25,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_6",
+      "LocationX": 484,
+      "LocationY": 157,
+      "Width": 36,
+      "Height": 20,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image1CropArea": null,
+  "Image2CropArea": null,
+  "YCrossLine1": 880,
+  "YCrossLine2": 843,
+  "MinContourArea": 1000,
+  "MaxContourArea": 20000
+}

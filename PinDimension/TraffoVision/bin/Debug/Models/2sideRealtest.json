@@ -1,0 +1,123 @@
+{
+  "Name": "2sideRealtest",
+  "Code": 1,
+  "Image1ICPins": [
+    {
+      "Name": "PIN1_1",
+      "LocationX": 226,
+      "LocationY": 276,
+      "Width": 70,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_2",
+      "LocationX": 358,
+      "LocationY": 276,
+      "Width": 47,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_3",
+      "LocationX": 424,
+      "LocationY": 277,
+      "Width": 39,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_4",
+      "LocationX": 546,
+      "LocationY": 276,
+      "Width": 45,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image2ICPins": [
+    {
+      "Name": "PIN2_1",
+      "LocationX": 163,
+      "LocationY": 266,
+      "Width": 36,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_2",
+      "LocationX": 222,
+      "LocationY": 266,
+      "Width": 43,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_3",
+      "LocationX": 289,
+      "LocationY": 268,
+      "Width": 37,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_4",
+      "LocationX": 350,
+      "LocationY": 265,
+      "Width": 40,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_5",
+      "LocationX": 415,
+      "LocationY": 266,
+      "Width": 41,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_6",
+      "LocationX": 479,
+      "LocationY": 267,
+      "Width": 43,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image1CropArea": null,
+  "Image2CropArea": null,
+  "ThresoldLine1": {
+    "CannyThreshold": 170,
+    "CannyThresholdLink": 190,
+    "AngleResolution": 179,
+    "LineThreshold": 80,
+    "MinLengthLine": 80,
+    "GabBetweenLine": 0,
+    "BrightnessCompare": 50
+  },
+  "ThresoldLine2": {
+    "CannyThreshold": 170,
+    "CannyThresholdLink": 190,
+    "AngleResolution": 179,
+    "LineThreshold": 80,
+    "MinLengthLine": 80,
+    "GabBetweenLine": 0,
+    "BrightnessCompare": 50
+  },
+  "YCrossLine1": 874,
+  "YCrossLine2": 843,
+  "StandardErrorValue": 0.0,
+  "MinContourArea": 1000,
+  "MaxContourArea": 20000
+}

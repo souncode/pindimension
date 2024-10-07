@@ -1,0 +1,26 @@
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.exe.config
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.exe
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.pdb
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\bin\Debug\ThridLibray.dll
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\bin\Debug\CLIDelegate.dll
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.AssemblyReference.cache
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.Form1.resources
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.Properties.Resources.resources
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.GenerateResource.cache
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.CoreCompileInputs.cache
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDis.90865A22.Up2Date
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.exe
+C:\Program Files\iCentral\iCentral\Development\Samples\C#\x64\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.pdb
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.exe.config
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.exe
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\bin\Debug\MultiDisplay.pdb
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\bin\Debug\ThridLibray.dll
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\bin\Debug\CLIDelegate.dll
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.AssemblyReference.cache
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.Form1.resources
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.Properties.Resources.resources
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.GenerateResource.cache
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay_vs2015.csproj.CoreCompileInputs.cache
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDis.90865A22.Up2Date
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.exe
+D:\xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\MultiDisplay\MultiDisplay\obj\x64\Debug\MultiDisplay.pdb

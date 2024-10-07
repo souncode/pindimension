@@ -1,0 +1,141 @@
+{
+  "Name": "localtest2side",
+  "Code": 1,
+  "Image1ICPins": [
+    {
+      "Name": "PIN1_1",
+      "LocationX": 222,
+      "LocationY": 322,
+      "Width": 33,
+      "Height": 28,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_2",
+      "LocationX": 283,
+      "LocationY": 323,
+      "Width": 39,
+      "Height": 29,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_3",
+      "LocationX": 352,
+      "LocationY": 322,
+      "Width": 32,
+      "Height": 29,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_4",
+      "LocationX": 416,
+      "LocationY": 322,
+      "Width": 31,
+      "Height": 29,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_5",
+      "LocationX": 480,
+      "LocationY": 324,
+      "Width": 33,
+      "Height": 27,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN1_6",
+      "LocationX": 545,
+      "LocationY": 322,
+      "Width": 35,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image2ICPins": [
+    {
+      "Name": "PIN2_1",
+      "LocationX": 220,
+      "LocationY": 320,
+      "Width": 35,
+      "Height": 31,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_2",
+      "LocationX": 285,
+      "LocationY": 316,
+      "Width": 38,
+      "Height": 34,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_3",
+      "LocationX": 352,
+      "LocationY": 320,
+      "Width": 35,
+      "Height": 32,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_4",
+      "LocationX": 413,
+      "LocationY": 320,
+      "Width": 39,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_5",
+      "LocationX": 480,
+      "LocationY": 317,
+      "Width": 36,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    },
+    {
+      "Name": "PIN2_6",
+      "LocationX": 544,
+      "LocationY": 319,
+      "Width": 37,
+      "Height": 30,
+      "ThresholdMin": 100,
+      "ThresholdMax": 255
+    }
+  ],
+  "Image1CropArea": null,
+  "Image2CropArea": null,
+  "ThresoldLine1": {
+    "CannyThreshold": 170,
+    "CannyThresholdLink": 190,
+    "AngleResolution": 179,
+    "LineThreshold": 80,
+    "MinLengthLine": 80,
+    "GabBetweenLine": 0,
+    "BrightnessCompare": 50
+  },
+  "ThresoldLine2": {
+    "CannyThreshold": 170,
+    "CannyThresholdLink": 190,
+    "AngleResolution": 179,
+    "LineThreshold": 80,
+    "MinLengthLine": 80,
+    "GabBetweenLine": 0,
+    "BrightnessCompare": 50
+  },
+  "YCrossLine1": 1017,
+  "YCrossLine2": 1017,
+  "StandardErrorValue": 0.0,
+  "MinContourArea": 1000,
+  "MaxContourArea": 20000
+}
